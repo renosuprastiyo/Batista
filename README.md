@@ -6,4 +6,4 @@ Hardware Requirement yang dibutuhkan yaitu PC/Laptop/Mac dengan processor setara
 
 Data platform ini nantinya akan ingest data dari banyak sumber diantaranya MariaDB, Kong, GDocs dan MongoDB.
 
-Untuk use case yang digunakan adalah Fashion Ecommerce data yang akan diambil dari MariaDB untuk MongoDB menyediakan data UMKM onboarding.
+Untuk use case yang digunakan adalah Fashion Ecommerce data yang akan diambil dari MariaDB, MongoDB menyediakan data UMKM onboarding, Kong menyediakan REST API Third Party data digital marketing dan GDocs menyediakan data pencapaian tiap sales.
