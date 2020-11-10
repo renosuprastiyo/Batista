@@ -10,4 +10,4 @@ Untuk use case yang digunakan adalah Fashion Ecommerce data yang akan diambil da
 
 Untuk ER-Diagram pada MariaDB seperti dibawah ini menggunakan lucid chart
 
-![ER-Diagram](https://github.com/renosuprastiyo/Batista/blob/master/ER-Diagram-Batista.png)
+![ER-Diagram-Batista](https://github.com/renosuprastiyo/Batista/blob/master/ER-Diagram-Batista.png)
