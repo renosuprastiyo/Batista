@@ -7,3 +7,7 @@ Hardware Requirement yang dibutuhkan yaitu PC/Laptop/Mac dengan processor setara
 Data platform ini nantinya akan mengambil data dari banyak sumber diantaranya MariaDB, Kong, GDocs dan MongoDB.
 
 Untuk use case yang digunakan adalah Fashion Ecommerce data yang akan diambil dari MariaDB, MongoDB menyediakan data UMKM onboarding, Kong menyediakan REST API Third Party data digital marketing dan GDocs menyediakan data pencapaian tiap sales.
+
+Untuk ER-Diagram pada MariaDB seperti dibawah ini menggunakan lucid chart
+
+![ER-Diagram](https://github.com/renosuprastiyo/Batista/blob/master/ER-Diagram-Batista.png)
