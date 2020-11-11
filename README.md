@@ -11,3 +11,7 @@ Untuk use case yang digunakan adalah Fashion Ecommerce data yang akan diambil da
 Untuk ER-Diagram pada MariaDB seperti dibawah ini menggunakan lucid chart
 
 ![ER-Diagram-Batista](https://github.com/renosuprastiyo/Batista/blob/master/ER-Diagram-Batista.png)
+
+Untuk Datawarehouse pada data lake menggunakan star schema dengan scd type 1 dimana dimension table hanya menyimpan data terakhir dan tidak menyimpan data historical
+
+![Datawarehouse-Batista](https://github.com/renosuprastiyo/Batista/blob/master/Datawarehouse-Batista.png)
