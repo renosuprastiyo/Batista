@@ -6,4 +6,6 @@ Berikutnya kita akan menyiapkan server mysql dengan mengclone vm Ubuntu18 yang t
 
 Pada konfigurasi clone pastikan dicheck Reinitialize MAC Address dan pilih tipe full clone
 
+![Config-Clone](https://github.com/renosuprastiyo/Batista/blob/master/resources/2_2_config_clone.png)
+
 
