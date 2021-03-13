@@ -25,3 +25,7 @@ Ubah hostname dengan nama yang baru kemudian login ulang
 ![Set-Hostname](https://github.com/renosuprastiyo/Batista/blob/master/resources/2_6_sethostname.png)
 
 ![Relogin](https://github.com/renosuprastiyo/Batista/blob/master/resources/2_7_relogin.png)
+
+Ganti ip address dengan yang baru dalam hal ini alamat ip addresnya 192.168.63.10
+
+![Set-IP](https://github.com/renosuprastiyo/Batista/blob/master/resources/2_8_setipaddress.png)
