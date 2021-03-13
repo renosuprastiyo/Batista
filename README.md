@@ -12,7 +12,7 @@ Berikut ini gambaran sistem yang akan dibangun
 
 Pengembangannya sendiri terdiri dari beberapa tahapan antara lain :
 
-1. [Setup Infrastruktur](http://google.com)
+1. [Setup Infrastruktur](https://github.com/renosuprastiyo/Batista/blob/master/setup_infrastructure.md)
 2. [Data Modelling](http://google.com)
 3. [Coding](http://google.com)
 4. [Go Live](http://google.com)
