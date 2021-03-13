@@ -14,7 +14,7 @@ Pengembangannya sendiri terdiri dari beberapa tahapan antara lain :
 
 1. [Setup Infrastruktur](https://github.com/renosuprastiyo/Batista/blob/master/setup_infrastructure.md)
 2. [Data Modelling](https://github.com/renosuprastiyo/Batista/blob/master/data_modelling.md)
-3. [Coding](http://google.com)
+3. [Coding](https://github.com/renosuprastiyo/Batista/blob/master/coding.md)
 4. [Go Live](http://google.com)
 
 Have Fun
