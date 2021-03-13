@@ -19,3 +19,7 @@ Setelah login kita akan membuat non-root user yaitu mysql-ersu dan menambahkanny
 Tambahkan user baru tersebut di baris terakhir file sudo sehingga tidak perlu mengetikkan password ketika menggunakan perintah sudo, tekan CTRL + o, tekan enter, tekan CTRL + x untuk menyimpan perubahan dan keluar dari editor
 
 ![Visudo](https://github.com/renosuprastiyo/Batista/blob/master/resources/2_5_visudo.png)
+
+Ubah hostname dengan nama yang baru
+
+![Set-Hostname](https://github.com/renosuprastiyo/Batista/blob/master/resources/2_6_sethostname.png)
