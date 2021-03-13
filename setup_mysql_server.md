@@ -10,6 +10,6 @@ Pada konfigurasi clone pastikan dicheck Reinitialize MAC Address dan pilih tipe 
 
 Kemudian nyalakan vm MySQL tersebut dan login menggunakan user pada vm Ubuntu
 
-
+![Login-VM](https://github.com/renosuprastiyo/Batista/blob/master/resources/2_3_login.png)
 
 
