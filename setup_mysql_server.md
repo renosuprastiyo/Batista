@@ -8,4 +8,8 @@ Pada konfigurasi clone pastikan dicheck Reinitialize MAC Address dan pilih tipe 
 
 ![Config-Clone](https://github.com/renosuprastiyo/Batista/blob/master/resources/2_2_config_clone.png)
 
+Kemudian nyalakan vm MySQL tersebut dan login menggunakan user pada vm Ubuntu
+
+
+
 
