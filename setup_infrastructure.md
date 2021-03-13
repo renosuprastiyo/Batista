@@ -5,12 +5,11 @@ Infrastruktur dari data platform ini akan berjalan diatas virtual machine/VM unt
 Untuk spesifikasi server/instance yang digunakan akan sama yaitu 1GB RAM dan 4GB Storage. Awalnya kita akan menginisiasi instance yang terinstall ubuntu yang nantinya instance ini akan diclone sehingga akan jadi lebih mudah tidak perlu banyak install ulang.
 
 Adapun langkah-langkah yang akan kita lakukan antara lain :
-<ol>
-  <li>[Instalasi Ubuntu di VM](http://google.com)</li>
-  <li>[Setup MySQL Server](http://google.com)</li>
-  <li>[Setup Spark Cluster](http://google.com)</li>
-  <li>[Setup Airflow](http://google.com)</li>
-  <li>[Setup Hadoop HDFS](http://google.com)</li>
-  <li>[Setup Presto Cluster](http://google.com)</li>
-</ol>
+
+1. [Instalasi Ubuntu di VM](http://google.com)
+2. [Setup MySQL Server](http://google.com)
+3. [Setup Spark Cluster](http://google.com)
+4. [Setup Airflow](http://google.com)
+5. [Setup Hadoop HDFS](http://google.com)
+6. [Setup Presto Cluster](http://google.com)
 
