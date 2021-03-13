@@ -8,10 +8,13 @@ Data platform ini nantinya akan mengambil beberapa data diantaranya data terstru
 
 Untuk use case yang digunakan adalah Fashion Ecommerce data yang akan diambil dari MySQL dan data invoice procurement dari file excel untuk MongoDB menyimpan data inquiry yaitu data pencarian barang oleh user di website/apps.
 
-Untuk ER-Diagram pada MySQL seperti dibawah ini menggunakan lucid chart
+Berikut ini gambaran sistem yang akan dibangun
 
-![ER-Diagram-Batista](https://github.com/renosuprastiyo/Batista/blob/master/ER-Diagram-Batista.png)
+Pengembangannya sendiri terdiri dari beberapa tahapan antara lain :
 
-Untuk Datawarehouse pada data lake menggunakan star schema dengan scd type 1 dimana dimension table hanya menyimpan data terakhir dan tidak menyimpan data historical
+1. [Setup Infrastruktur](http://google.com)
+2. [Data Modelling](http://google.com)
+3. [Coding](http://google.com)
+4. [Go Live](http://google.com)
 
-![Datawarehouse-Batista](https://github.com/renosuprastiyo/Batista/blob/master/Datawarehouse-Batista.png)
+Have Fun
