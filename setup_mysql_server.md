@@ -12,6 +12,10 @@ Kemudian nyalakan vm MySQL tersebut dan login menggunakan user pada vm Ubuntu
 
 ![Login-VM](https://github.com/renosuprastiyo/Batista/blob/master/resources/2_3_login.png)
 
-Setelah login kita akan membuat user baru dan menambahkannya sebagai user sudo
+Setelah login kita akan membuat non-root user yaitu mysql-ersu dan menambahkannya sebagai user sudo
 
 ![Add-Newuser](https://github.com/renosuprastiyo/Batista/blob/master/resources/2_4_adduser.png)
+
+Tambahkan user baru tersebut di baris terakhir file sudo sehingga tidak perlu mengetikkan password ketika menggunakan perintah sudo
+
+![Visudo](https://github.com/renosuprastiyo/Batista/blob/master/resources/2_5_visudo.png)
