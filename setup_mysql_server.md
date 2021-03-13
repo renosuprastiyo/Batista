@@ -2,14 +2,14 @@
 
 Berikutnya kita akan menyiapkan server mysql dengan mengclone vm Ubuntu18 yang telah kita buat sebelumnya. Pastikan vm Ubuntu18 dalam keadaan mati ketika akan diclone.
 
-![Clone-VM](https://github.com/renosuprastiyo/Batista/blob/master/resources/2_1_clone_4.png)
+![Clone-VM](https://github.com/renosuprastiyo/Batista/blob/master/resources/2_1_clone.png)
 
 Pada konfigurasi clone pastikan dicheck Reinitialize MAC Address dan pilih tipe full clone
 
-![Config-Clone](https://github.com/renosuprastiyo/Batista/blob/master/resources/2_2_config_clone_2.png)
+![Config-Clone](https://github.com/renosuprastiyo/Batista/blob/master/resources/2_2_config_clone.png)
 
 Kemudian nyalakan vm MySQL tersebut dan login menggunakan user pada vm Ubuntu
 
-![Login-VM](https://github.com/renosuprastiyo/Batista/blob/master/resources/2_3_login_2.png)
+![Login-VM](https://github.com/renosuprastiyo/Batista/blob/master/resources/2_3_login.png)
 
 
