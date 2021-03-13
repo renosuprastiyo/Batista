@@ -1,6 +1,6 @@
 # Batista
 
-Batista adalah Batch data platform yang dibangun menggunakan teknologi Python, Spark, Airflow, Presto dalam lingkungan cluster dan berjalan didalam Kubernetes(k8s).
+Batista adalah Batch data platform yang dibangun menggunakan teknologi Python, Spark, Airflow, Presto dalam lingkungan cluster dan berjalan diatas Virtual Machine.
 
 Platform ini berjalan di lokal sehingga hardware requirement yang dibutuhkan yaitu PC/Laptop/Mac dengan processor setara core i5 dan ram minimal 16GB agar sistem berjalan dengan baik. Dalam project ini saya menggunakan Macbook Pro Retina core i7 dengan ram 16GB.
 
