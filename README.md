@@ -8,7 +8,7 @@ Data platform ini nantinya akan mengambil beberapa data diantaranya data terstru
 
 Untuk use case yang digunakan adalah Fashion Ecommerce data yang akan diambil dari MySQL dan data invoice procurement dari file excel untuk MongoDB menyimpan data inquiry yaitu data pencarian barang oleh user di website/apps.
 
-Berikut ini gambaran sistem yang akan dibangun
+Berikut ini arsitektur sistem yang akan dibangun
 
 Pengembangannya sendiri terdiri dari beberapa tahapan antara lain :
 
