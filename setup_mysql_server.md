@@ -20,6 +20,7 @@ Tambahkan user baru tersebut di baris terakhir file sudo sehingga tidak perlu me
 
 ![Visudo](https://github.com/renosuprastiyo/Batista/blob/master/resources/2_5_visudo.png)
 
-Ubah hostname dengan nama yang baru
+Ubah hostname dengan nama yang baru kemudian login ulang
 
 ![Set-Hostname](https://github.com/renosuprastiyo/Batista/blob/master/resources/2_6_sethostname.png)
+![Relogin](https://github.com/renosuprastiyo/Batista/blob/master/resources/2_7_relogin.png)
