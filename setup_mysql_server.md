@@ -14,4 +14,4 @@ Kemudian nyalakan vm MySQL tersebut dan login menggunakan user pada vm Ubuntu
 
 Setelah login kita akan membuat user baru dan menambahkannya sebagai user sudo
 
-
+![Add-Newuser](https://github.com/renosuprastiyo/Batista/blob/master/resources/2_4_adduser.png)
