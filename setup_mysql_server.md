@@ -16,6 +16,6 @@ Setelah login kita akan membuat non-root user yaitu mysql-ersu dan menambahkanny
 
 ![Add-Newuser](https://github.com/renosuprastiyo/Batista/blob/master/resources/2_4_adduser.png)
 
-Tambahkan user baru tersebut di baris terakhir file sudo sehingga tidak perlu mengetikkan password ketika menggunakan perintah sudo
+Tambahkan user baru tersebut di baris terakhir file sudo sehingga tidak perlu mengetikkan password ketika menggunakan perintah sudo, tekan CTRL + o, tekan enter, tekan CTRL + x untuk menyimpan perubahan dan keluar dari editor
 
 ![Visudo](https://github.com/renosuprastiyo/Batista/blob/master/resources/2_5_visudo.png)
