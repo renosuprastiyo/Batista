@@ -10,6 +10,8 @@ Untuk use case yang digunakan adalah Fashion Ecommerce data yang akan diambil da
 
 Berikut ini arsitektur sistem yang akan dibangun
 
+![Arsitektur-Batista](https://github.com/renosuprastiyo/Batista/blob/master/architecture.png)
+
 Pengembangannya sendiri terdiri dari beberapa tahapan antara lain :
 
 1. [Setup Infrastruktur](https://github.com/renosuprastiyo/Batista/blob/master/setup_infrastructure.md)
