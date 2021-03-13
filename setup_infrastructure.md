@@ -7,7 +7,7 @@ Untuk spesifikasi server/instance yang digunakan akan sama yaitu 1GB RAM dan 4GB
 Adapun langkah-langkah yang akan kita lakukan antara lain :
 
 1. [Instalasi Ubuntu di VM](https://github.com/renosuprastiyo/Batista/blob/master/setup_vm_ubuntu.md)
-2. [Setup MySQL Server](http://google.com)
+2. [Setup MySQL Server](https://github.com/renosuprastiyo/Batista/blob/master/setup_mysql_server.md)
 3. [Setup Spark Cluster](http://google.com)
 4. [Setup Airflow](http://google.com)
 5. [Setup Hadoop HDFS](http://google.com)
