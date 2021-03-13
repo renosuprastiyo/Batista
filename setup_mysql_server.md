@@ -29,3 +29,5 @@ Ubah hostname dengan nama yang baru kemudian login ulang
 Ganti ip address dengan yang baru dalam hal ini alamat ip addresnya 192.168.63.10
 
 ![Set-IP](https://github.com/renosuprastiyo/Batista/blob/master/resources/2_8_setipaddress.png)
+
+![Set-IP-2](https://github.com/renosuprastiyo/Batista/blob/master/resources/2_8_setipaddress_2.png)
