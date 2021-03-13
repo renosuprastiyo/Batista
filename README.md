@@ -14,11 +14,9 @@ Berikut ini arsitektur sistem yang akan dibangun
 
 Pengembangannya sendiri terdiri dari beberapa tahapan antara lain :
 
-<ol>
-  <li>[Setup Infrastruktur](https://github.com/renosuprastiyo/Batista/blob/master/setup_infrastructure.md)</li>
-  <li>[Data Modelling](https://github.com/renosuprastiyo/Batista/blob/master/data_modelling.md)</li>
-  <li>[Coding](https://github.com/renosuprastiyo/Batista/blob/master/coding.md)</li>
-  <li>[Go Live](https://github.com/renosuprastiyo/Batista/blob/master/go_live.md)</li>
-</ol>
+1. [Setup Infrastruktur](https://github.com/renosuprastiyo/Batista/blob/master/setup_infrastructure.md)
+2. [Data Modelling](https://github.com/renosuprastiyo/Batista/blob/master/data_modelling.md)
+3. [Coding](https://github.com/renosuprastiyo/Batista/blob/master/coding.md)
+4. [Go Live](https://github.com/renosuprastiyo/Batista/blob/master/go_live.md)
 
 Have Fun!!
