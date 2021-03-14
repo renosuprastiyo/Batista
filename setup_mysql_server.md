@@ -37,3 +37,8 @@ Ganti nat dengan alamat baru 10.0.2.10
 ![Set-NAT](https://github.com/renosuprastiyo/Batista/blob/master/resources/2_9_setnat.png)
 
 ![Set-NAT-2](https://github.com/renosuprastiyo/Batista/blob/master/resources/2_9_setnat_2.png)
+
+Kemudian terapkan perubahan network ini dengan command berikut
+
+![Apply-Network-Change](https://github.com/renosuprastiyo/Batista/blob/master/resources/2_10_apply_network_change.png)
+
