@@ -45,3 +45,7 @@ Kemudian terapkan perubahan network ini dengan command berikut
 Berikutnya kita akan menginstal paket mysql di sistem operasi ubuntu ini
 
 ![Install-MySQL-Package](https://github.com/renosuprastiyo/Batista/blob/master/resources/2_11_install_mysql_package.png)
+
+Setelah selesai lakukan instalasi mysql
+
+![Install-MySQL-Server](https://github.com/renosuprastiyo/Batista/blob/master/resources/2_11_install_mysql_server.png)
