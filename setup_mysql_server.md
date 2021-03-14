@@ -31,3 +31,9 @@ Ganti ip address dengan yang baru dalam hal ini alamat ip addresnya 192.168.63.1
 ![Set-IP](https://github.com/renosuprastiyo/Batista/blob/master/resources/2_8_setipaddress.png)
 
 ![Set-IP-2](https://github.com/renosuprastiyo/Batista/blob/master/resources/2_8_setipaddress_2.png)
+
+Ganti nat dengan alamat baru 10.0.2.10
+
+![Set-NAT](https://github.com/renosuprastiyo/Batista/blob/master/resources/2_9_setnat.png)
+
+![Set-NAT-2](https://github.com/renosuprastiyo/Batista/blob/master/resources/2_9_setnat_2.png)
