@@ -54,4 +54,6 @@ MySQL secara default menset user root dengan auth_socket plugin oleh karena itu 
 
 ![Set-User](https://github.com/renosuprastiyo/Batista/blob/master/resources/2_13_setuser.png)
 
+Langkah terakhir kita akan test login dengan user yang baru dibuat
 
+![Check-User-Login](https://github.com/renosuprastiyo/Batista/blob/master/resources/2_14_check_user_login.png)
