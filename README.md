@@ -19,4 +19,4 @@ Pengembangannya sendiri terdiri dari beberapa tahapan antara lain :
 3. [Coding](https://github.com/renosuprastiyo/Batista/blob/master/coding.md)
 4. [Go Live](https://github.com/renosuprastiyo/Batista/blob/master/go_live.md)
 
-Have Fun!!
+Enjoy!!
