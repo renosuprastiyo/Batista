@@ -16,7 +16,7 @@ Setelah login kita akan membuat non-root user yaitu mysql-ersu dan menambahkanny
 
 ![Add-Newuser](https://github.com/renosuprastiyo/Batista/blob/master/resources/2_4_adduser.png)
 
-Tambahkan user baru tersebut di baris terakhir file sudo sehingga tidak perlu mengetikkan password ketika menggunakan perintah sudo, tekan CTRL + o, tekan enter, tekan CTRL + x untuk menyimpan perubahan dan keluar dari editor
+Tambahkan user baru tersebut di baris terakhir file sudo sehingga tidak perlu mengetikkan password ketika menggunakan perintah sudo, tekan CTRL + o, tekan enter, tekan CTRL + x untuk menyimpan perubahan dan keluar dari editor nano
 
 ![Visudo](https://github.com/renosuprastiyo/Batista/blob/master/resources/2_5_visudo.png)
 
@@ -29,6 +29,8 @@ Ubah hostname dengan nama yang baru kemudian login ulang
 Ganti ip address dengan yang baru dalam hal ini alamat ip addresnya 192.168.63.10
 
 ![Set-IP](https://github.com/renosuprastiyo/Batista/blob/master/resources/2_8_setipaddress.png)
+
+Tekan i untuk masuk mode insert, kemudian edit filenya, setelah selesai tekan esc dan ketik :wq untuk menulis perubahan dan keluar dari editor vi
 
 ![Set-IP-2](https://github.com/renosuprastiyo/Batista/blob/master/resources/2_8_setipaddress_2.png)
 
