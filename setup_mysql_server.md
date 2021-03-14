@@ -48,4 +48,4 @@ Berikutnya kita akan menginstal paket mysql di sistem operasi ubuntu ini
 
 Setelah selesai lakukan instalasi mysql
 
-![Install-MySQL-Server](https://github.com/renosuprastiyo/Batista/blob/master/resources/2_11_install_mysql_server.png)
+![Install-MySQL-Server](https://github.com/renosuprastiyo/Batista/blob/master/resources/2_12_install_mysql_server.png)
